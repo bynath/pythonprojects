@@ -53,15 +53,3 @@ Atualmente, estou estudando **Análise e Desenvolvimento de Sistemas (ADS)** e u
   - Uso de f-strings para mensagens dinâmicas
   
   > Novos projetos serão adicionados conforme meu aprendizado evoluir.
-    
-  ## Estrutura
-  
-  pythonprojects/
-  │
-  ├── README.md
-  │
-  ├── calculadora/
-  │   └── calculadora.py
-  │
-  └── outros-projetos/
-      └── ...
