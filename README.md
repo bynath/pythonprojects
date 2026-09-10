@@ -51,5 +51,37 @@ Atualmente, estou estudando **Análise e Desenvolvimento de Sistemas (ADS)** e u
   - Comparação de valores
   - `break`
   - Uso de f-strings para mensagens dinâmicas
+
+  ### Conversor de Temperatura °C para °F
+  Um programa simples que solicita ao usuário uma temperatura em **graus Celsius (°C)** e realiza a conversão para **graus Fahrenheit (°F)** utilizando a fórmula:
+  **°F = °C × 1,8 + 32**
   
-  > Novos projetos serão adicionados conforme meu aprendizado evoluir.
+  **Conceitos praticados:**
+  - Entrada de dados com `input()`
+  - Conversão de tipos com `float()`
+  - Operadores matemáticos
+  - Atribuição de valores a variáveis
+  - Cálculos com números decimais
+  - Uso de f-strings para exibição dos resultados
+
+  ### Cálculo de Média Escolar
+  Um programa que permite ao usuário informar a quantidade de notas que deseja utilizar e, em seguida, calcula a **média aritmética** das notas informadas.
+  O programa também realiza uma validação para garantir que sejam informadas **pelo menos duas notas** antes de realizar o cálculo.
+  
+  **Conceitos praticados:**
+  
+  - Estrutura de repetição `while`
+  - Estrutura de repetição `for`
+  - Estruturas condicionais `if` e `else`
+  - Entrada de dados com `input()`
+  - Conversão de tipos com `int()` e `float()`
+  - Listas
+  - Método `append()`
+  - Função `sum()`
+  - Função `len()`
+  - Cálculo de média
+  - Formatação de números com `:.2f`
+  - Uso de f-strings
+  - `break` para encerrar a repetição
+    
+    > Novos projetos serão adicionados conforme meu aprendizado evoluir.
