@@ -38,6 +38,6 @@ Os projetos podem ser simples, mas fazem parte do meu processo de aprendizado e 
 | [Jogo de Adivinhação](./jogo_adivinhacao) | `random`, `while`, condicionais |
 | [Conversor de Temperatura](./conversor_temperatura) | Variáveis, `float()` e operações matemáticas |
 | [Cálculo de Média Escolar](./calcular_media) | Listas, `for`, `while`, `sum()` e `len()` |
-| [Cálculo de INSS](./calcular_inss) | Funções, parâmetros, `return`, type hints e condicionais |
+| [Cálculo de Salário Bruto](./calculadora_salariobruto) | Funções, parâmetros, `return`, type hints e condicionais |
 
 > Novos projetos serão adicionados conforme meu aprendizado evoluir.
