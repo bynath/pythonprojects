@@ -37,7 +37,7 @@ Os projetos podem ser simples, mas fazem parte do meu processo de aprendizado e 
 | [Calculadora](./calculadora) | Operadores, condicionais e repetição |
 | [Jogo de Adivinhação](./jogo_adivinhacao) | `random`, `while`, condicionais |
 | [Conversor de Temperatura](./conversor_temperatura) | Variáveis, `float()` e operações matemáticas |
-| [Cálculo de Média Escolar](./media_escolar) | Listas, `for`, `while`, `sum()` e `len()` |
+| [Cálculo de Média Escolar](./calcular_media) | Listas, `for`, `while`, `sum()` e `len()` |
 | [Cálculo de INSS](./calculo_inss) | Funções, parâmetros, `return`, type hints e condicionais |
 
 > Novos projetos serão adicionados conforme meu aprendizado evoluir.
