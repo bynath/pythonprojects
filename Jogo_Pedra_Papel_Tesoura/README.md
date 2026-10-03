@@ -1,4 +1,4 @@
-#Jogo de Pedra, Papel e Tesoura
+# Jogo de Pedra, Papel e Tesoura
 Projeto desenvolvido em **Python** como parte dos estudos de lógica de programação.
 O programa simula uma partida de **Pedra, Papel e Tesoura** entre o usuário e o computador. O jogador escolhe uma das três opções e o computador realiza uma escolha aleatória. Em seguida, o programa verifica o resultado da partida.
 
